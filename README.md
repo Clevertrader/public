@@ -1,0 +1,2 @@
+# public
+Contatos de ativos 
